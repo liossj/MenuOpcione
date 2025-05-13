@@ -12,7 +12,7 @@ def agregar_producto():
         print("\n--- AGREGAR PRODUCTO ---")
         nombre = input("Ingrese el nombre del producto: ")
         
-        # Validación del precio
+        # Validación del precio xd
         while True:
             try:
                 precio = float(input("Ingrese el precio del producto: "))
