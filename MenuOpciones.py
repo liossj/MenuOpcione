@@ -1,5 +1,5 @@
 inventario = []
-
+# Muestra menu
 def mostrar_menu():
     print("\n--- MENÚ PRINCIPAL ---")
     print("1. Agregar producto al inventario")
